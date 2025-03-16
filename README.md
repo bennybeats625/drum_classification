@@ -25,3 +25,12 @@ This project was developed using Python. Install the required dependencies befor
 - matplotlib
 - pillow
 - soundfile
+
+
+
+
+
+
+**Note**
+
+The stopwatch module belongs to my advisor Robert Nickel.
